@@ -24,6 +24,6 @@
 
 ## Contact
 
-- GitHub: [@YOUR-GITHUB-USERNAME](https://github.com/ajima26)
+- GitHub: [ajima26](https://github.com/ajima26)
 - LinkedIn: [Azimatul Matsniya](https://linkedin.com/in/azimatulmatsniya)
 - Email: `azimatulmatsniya@gmail.com`
